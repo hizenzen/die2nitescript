@@ -9,18 +9,18 @@
 // @grant       GM_getResourceText
 // @grant       GM_info
 // @include     http://www.die2nite.com/*
-// @downloadURL https://sourceforge.net/projects/die2nitescript/files/Die2nitetools/Die2Nite_tools.user.js/download
-// @updateURL   https://sourceforge.net/projects/die2nitescript/files/Die2nitetools/Die2Nite_tools.user.js/download
-// @require     https://sourceforge.net/projects/die2nitescript/files/Die2nitetools/jquery.js/download
-// @require     https://sourceforge.net/projects/die2nitescript/files/Die2nitetools/jquery-ui.js/download
-// @require     https://sourceforge.net/projects/die2nitescript/files/Die2nitetools/farbtastic.js/download
-// @require     https://sourceforge.net/projects/die2nitescript/files/Die2nitetools/app.js/download
-// @require     https://sourceforge.net/projects/die2nitescript/files/Die2nitetools/mod_updateApps.js/download
-// @require     https://sourceforge.net/projects/die2nitescript/files/Die2nitetools/mod_scavengerCountdown.js/download
-// @require     https://sourceforge.net/projects/die2nitescript/files/Die2nitetools/mod_flashingEscortButton.js/download
-// @require     https://sourceforge.net/projects/die2nitescript/files/Die2nitetools/mod_ghoulHungerPercentages.js/download
-// @require     https://sourceforge.net/projects/die2nitescript/files/Die2nitetools/mod_devtools.js/download
-// @resource    style.css https://sourceforge.net/projects/die2nitescript/files/Die2nitetools/style.css/download
+// @downloadURL https://github.com/hizenzen/die2nitescript/blob/master/Die2Nite_tools.user.js
+// @updateURL   https://github.com/hizenzen/die2nitescript/blob/master/Die2Nite_tools.user.js
+// @require     https://github.com/hizenzen/die2nitescript/blob/master/jquery.js
+// @require     https://github.com/hizenzen/die2nitescript/blob/master/jquery-ui.js
+// @require     https://github.com/hizenzen/die2nitescript/blob/master/farbtastic.js
+// @require     https://github.com/hizenzen/die2nitescript/blob/master/app.js
+// @require     https://github.com/hizenzen/die2nitescript/blob/master/mod_updateApps.js
+// @require     https://github.com/hizenzen/die2nitescript/blob/master/mod_scavengerCountdown.js
+// @require     https://github.com/hizenzen/die2nitescript/blob/master/mod_flashingEscortButton.js
+// @require     https://github.com/hizenzen/die2nitescript/blob/master/mod_ghoulHungerPercentages.js
+// @require     https://github.com/hizenzen/die2nitescript/blob/master/mod_devtools.js
+// @resource    style.css https://github.com/hizenzen/die2nitescript/blob/master/style.css
 // @copyright 2018, hiZEN (https://openuserjs.org//users/hiZEN)
 // @license MIT
 
