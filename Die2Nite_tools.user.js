@@ -9,19 +9,19 @@
 // @grant       GM_getResourceText
 // @grant       GM_info
 // @include     http://www.die2nite.com/*
-// @downloadURL http://scriptdownload.epizy.com/Die2Nite_tools.user.js
-// @updateURL   https://openuserjs.org/scripts/hiZEN/Die2Nite_tools(fixed)
-// @require     http://scriptdownload.epizy.com/jquery.js
-// @require     http://scriptdownload.epizy.com/jquery-ui.js
-// @require     http://scriptdownload.epizy.com/farbtastic.js
-// @require     http://scriptdownload.epizy.com/app.js
-// @require     http://scriptdownload.epizy.com/mod_updateApps.js
-// @require     http://scriptdownload.epizy.com/mod_scavengerCountdown.js
-// @require     http://scriptdownload.epizy.com/mod_flashingEscortButton.js
-// @require     http://scriptdownload.epizy.com/mod_ghoulHungerPercentages.js
-// @require     http://scriptdownload.epizy.com/mod_devtools.js
-// @resource    style.css http://scriptdownload.epizy.com/style.css
-// @copyright 2018, hiZEN (https://openuserjs.org//users/hiZEN)
+// @downloadURL https://github.com/hizenzen/die2nitescript/raw/master/Die2Nite_tools.user.js
+// @updateURL   https://github.com/hizenzen/die2nitescript/raw/master/Die2Nite_tools.user.js
+// @require     https://github.com/hizenzen/die2nitescript/raw/master/jquery.js
+// @require     https://github.com/hizenzen/die2nitescript/raw/master/jquery-ui.js
+// @require     https://github.com/hizenzen/die2nitescript/raw/master/farbtastic.js
+// @require     https://github.com/hizenzen/die2nitescript/raw/master/app.js
+// @require     https://github.com/hizenzen/die2nitescript/raw/master/mod_updateApps.js
+// @require     https://github.com/hizenzen/die2nitescript/raw/master/mod_scavengerCountdown.js
+// @require     https://github.com/hizenzen/die2nitescript/raw/master/mod_flashingEscortButton.js
+// @require     https://github.com/hizenzen/die2nitescript/raw/master/mod_ghoulHungerPercentages.js
+// @require     https://github.com/hizenzen/die2nitescript/raw/master/mod_devtools.js
+// @resource    https://github.com/hizenzen/die2nitescript/raw/master/style.css
+// @copyright 2019, hiZEN (https://openuserjs.org//users/hiZEN)
 // @license MIT
 
 // ==/UserScript==
@@ -42,7 +42,7 @@ window.log = function(data) {
 	}
 };
 
-var remoteCssUrl = 'http://scriptdownload.epizy.com/testscripts/style.css';
+var remoteCssUrl = 'https://github.com/hizenzen/die2nitescript/raw/master/style.css';
 
 // basic jquery mutation observer extension, fuck IE for now
 $.fn.domChange = function(callback) {
